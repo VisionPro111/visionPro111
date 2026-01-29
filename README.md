@@ -4,7 +4,7 @@ Welcome to my GitHub profile! Here's a bit about me:
 
 ## 🚀 About Me
 
-- 🌱 I’m currently pursuing an MCA at G.L. Bajaj College of Technology, Greater Noida (2022–2024), with a CGPA of 7.4.
+- 🌱 I’m Software Developer.
 - 👨‍💻 Passionate about full-stack development, cloud computing, and modern web technologies.
 - 🎯 Continuously learning and solving problems on platforms like LeetCode and GeeksforGeeks.
 
@@ -69,7 +69,7 @@ Welcome to my GitHub profile! Here's a bit about me:
 
 ## 🧩 Coding Platforms
 
-- Solved 70+ problems on [LeetCode](https://leetcode.com/u/harendraranjan/)
+- Solved 70+ problems on [LeetCode]
 - Solved 200+ problems on GeeksforGeeks and InterviewBit
 
 ## 📫 How to reach me
