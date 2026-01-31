@@ -48,18 +48,13 @@ Welcome to my GitHub profile! Here's a bit about me:
 
 ## 💼 Experience
 
-### Brainiac Training Centre Pvt Ltd
-- **Role**: Software Developer (Feb 2024)
+### OGPM Groups Pvt Ltd
+- **Role**: Software Developer (Feb 2021)
 - **Responsibilities**:
   - Built and implemented a business website from scratch.
   - Developed user-friendly web applications with a responsive front end.
   - Worked as a full-stack developer and UI designer.
 
-### Intern at Edunate
-- **Role**: Trainee Software Developer (Aug 2023–Feb 2024)
-- **Responsibilities**:
-  - Applied cloud computing techniques for software development.
-  - Built responsive web applications using React.js, Spring Boot, and MySQL.
 
 ## 🏆 Certifications
 
@@ -75,26 +70,26 @@ Welcome to my GitHub profile! Here's a bit about me:
 ## 📫 How to reach me
 
 <div align="left">
-  <a href="https://linkedin.com/in/harendraranjan" target="_blank">
+  <a href="https://www.linkedin.com/in/satyam-yadav-407327244?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
   <a href="https://twitter.com/your-twitter-handle" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
   </a>
-  <a href="https://instagram.com/harendraranjan" target="_blank">
+  <a href="https://www.instagram.com/fit.young.men?igsh=Zm9qajlnNDFjejh1&utm_source=qr" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
   </a>
-  <a href="https://t.me/9821961373" target="_blank">
+  <a href="https://t.me/8305213333" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" />
   </a>
-  <a href="mailto:21mph013@nith.ac.in" target="_blank">
+  <a href="mailto:sy73109628@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
 </div>
 
 ### 
 
-- **Email**: [21mph013@nith.ac.in](mailto:21mph013@nith.ac.in)
-- **Portfolio**: [harendraranjan.netlify.app](https://harendraranjan.netlify.app)
+- **Email**: [sy73109628@gmail.com](mailto:sy73109628@gmail.com)
+- **Portfolio**: [https://satyamyadavjee.netlify.app/](https://satyamyadavjee.netlify.app/)
 
 Thanks for stopping by! 😊
